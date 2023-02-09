@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sumit Kumar,
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Python Developer.
 - 👀 I’m interested in debugging more than coding
 - 🌱 I’m currently learning wedD
 - 📫 How to reach me = [Click here](https://www.linkedin.com/in/sumit-kumar-06b022213/)
