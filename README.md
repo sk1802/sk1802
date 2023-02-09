@@ -1,4 +1,5 @@
-- 👋 Hi, I’m SK
+- 👋 Hi, I’m Sumit Kumar,
+- [](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw21Tk2_Gxqo6vd7UNnYFjBg&ust=1676022561533000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLizpt2UiP0CFQAAAAAdAAAAABAE) Python Developer
 - 👀 I’m interested in debugging more than coding
 - 🌱 I’m currently learning wedD
 - 📫 How to reach me = [Click here](https://www.linkedin.com/in/sumit-kumar-06b022213/)
