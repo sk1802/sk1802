@@ -56,10 +56,6 @@ I am an experienced **Kernel Developer** specializing in **PCIe** and Linux kern
   <img src="https://github-readme-stats-six-blond-57.vercel.app/api/top-langs/?username=sk1802&layout=compact&theme=radical" alt="Top Languages" height="170"/>
 </p>
 
-![sk1802's GitHub stats](https://github-readme-stats-six-blond-57.vercel.app/api?username=sk1802&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-six-blond-57.vercel.app/api/top-langs/?username=sk1802&layout=compact&theme=radical)
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sk1802&theme=highcontrast" alt="GitHub Streak Stats" height="150"/>
 </p>
