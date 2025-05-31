@@ -37,7 +37,7 @@ My expertise spans both low-level systems programming and full-stack application
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub & Coding Stats
 
 <p align="center">
   <img src="https://github-readme-stats-six-blond-57.vercel.app/api?username=sk1802&show_icons=true&theme=radical" alt="sk1802's GitHub Stats" height="170"/>
@@ -45,8 +45,19 @@ My expertise spans both low-level systems programming and full-stack application
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sk1802&theme=highcontrast" alt="GitHub Streak Stats" height="150"/>
-  <img src="https://leetcard.jacoblin.cool/sk4286640?&theme=dark" alt="Leetcode Stats" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=sk1802&theme=radical" alt="GitHub Streak Stats" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sk1802&theme=radical&margin-w=10" alt="GitHub Trophies" height="140"/>
+</p>
+
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/sk1802/">
+    <img src="https://leetcard.jacoblin.cool/sk1802?theme=dark&ext=contest" alt="LeetCode Stats" height="180"/>
+  </a>
 </p>
 
 ---
