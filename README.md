@@ -46,7 +46,7 @@ My expertise spans both low-level systems programming and full-stack application
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sk1802&theme=highcontrast" alt="GitHub Streak Stats" height="150"/>
-  <img src="[https://streak-stats.demolab.com/?user=sk1802](https://leetcard.jacoblin.cool/sk4286640?&theme=highcontrast") alt="Leetcode Stats" height="150"/>
+  <img src="[https://streak-stats.demolab.com/?user=sk1802](https://leetcard.jacoblin.cool/sk4286640?&theme=dark") alt="Leetcode Stats" height="150"/>
 </p>
 
 ---
