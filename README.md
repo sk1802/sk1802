@@ -56,7 +56,7 @@ My expertise spans both low-level systems programming and full-stack application
 
 <p align="center">
   <a href="https://leetcode.com/sk1802/">
-    <img src="https://leetcard.jacoblin.cool/sk1802?theme=dark&ext=contest" alt="LeetCode Stats" height="180"/>
+    <img src="https://leetcard.jacoblin.cool/sk4286640?theme=dark&ext=contest" alt="LeetCode Stats" height="180"/>
   </a>
 </p>
 
