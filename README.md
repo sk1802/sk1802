@@ -52,7 +52,7 @@ I am an experienced **Kernel Developer** specializing in **PCIe** and Linux kern
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sk1802&show_icons=true&theme=radical" alt="sk1802's GitHub Stats" height="170"/>
+  <img src="https://vercel.com/sk1802s-projects/github-readme-stats/api?username=sk1802&show_icons=true&theme=radical" alt="sk1802's GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk1802&layout=compact&theme=radical" alt="Top Languages" height="170"/>
 </p>
 
