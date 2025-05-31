@@ -14,12 +14,12 @@
 ## 👨‍💻 About Me
 I am a **Linux Kernel Developer** with hands-on experience in PCIe and Linux kernel driver development.
 My expertise spans both low-level systems programming and full-stack application development.
-| **Area**                  | **Skills & Experience**                                                                |
-|---------------------------|----------------------------------------------------------------------------------------|
-| Kernel & Systems          | Linux kernel driver development, PCIe subsystems, patches contributed to Linux upstream|
-| Frontend                  | HTML, CSS, JavaScript, React                                                           |
-| Backend                   | Python (Flask, Django), Node.js, Express                                               |
-| Encryption                | RSA and other cryptographic techniques                                                 |
+| **Area**                  | **Skills & Experience**                                                                        |
+|---------------------------|----------------------------------------------------------------------------------------        |
+| Kernel & Systems          | Linux kernel driver development, PCIe subsystems, patches contributed to Linux upstream        |
+| Frontend                  | HTML, CSS, JavaScript, React                                                                   |
+| Backend                   | Python (Flask, Django), Node.js, Express                                                       |
+| Encryption                | RSA and other cryptographic techniques                                                         |
 
 
 ---
