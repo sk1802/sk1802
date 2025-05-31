@@ -74,7 +74,7 @@ I am an experienced **Kernel Developer** specializing in **PCIe** and Linux kern
 ## 📫 Contact
 
 <p>
-  <a href="https://www.linkedin.com/in/sk1802/">
+  <a href="https://www.linkedin.com/in/sumit-kumar-06b022213/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/sk1802">
