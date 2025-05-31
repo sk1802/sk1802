@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me
 I am a **Linux Kernel Developer** with hands-on experience in PCIe and Linux kernel driver development.
 My expertise spans both low-level systems programming and full-stack application development.
-table width="100%">
+<table width="100%">
   <tr>
     <th align="left" width="20%">Kernel & Systems</th>
     <td>
