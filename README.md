@@ -43,9 +43,10 @@ My expertise spans both low-level systems programming and full-stack application
   <img src="https://github-readme-stats-six-blond-57.vercel.app/api?username=sk1802&show_icons=true&theme=radical" alt="sk1802's GitHub Stats" height="170"/>
   <img src="https://github-readme-stats-six-blond-57.vercel.app/api/top-langs/?username=sk1802&layout=compact&theme=radical" alt="Top Languages" height="170"/>
 </p>
-![LeetCode Stats](https://leetcard.jacoblin.cool/sk4286640?theme=unicorn)
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sk1802&theme=highcontrast" alt="GitHub Streak Stats" height="150"/>
+  <img src="[https://streak-stats.demolab.com/?user=sk1802](https://leetcard.jacoblin.cool/sk4286640?&theme=highcontrast") alt="Leetcode Stats" height="150"/>
 </p>
 
 ---
