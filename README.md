@@ -12,15 +12,17 @@
 ---
 
 ## 👨‍💻 About Me
-I am a **Linux Kernel Developer** with hands-on experience in PCIe and Linux kernel driver development.
-My expertise spans both low-level systems programming and full-stack application development.
-| **Area**                  | **Skills & Experience**                                                                        |
-|---------------------------|----------------------------------------------------------------------------------------        |
-| Kernel & Systems          | Linux kernel driver development, PCIe subsystems, patches contributed to Linux upstream        |
-| Frontend                  | HTML, CSS, JavaScript, React                                                                   |
-| Backend                   | Python (Flask, Django), Node.js, Express                                                       |
-| Encryption                | RSA and other cryptographic techniques                                                         |
+Hi! I'm **Sumit Kumar** (`sk1802`), currently a Linux Kernel Developer with a strong foundation in full-stack development, machine learning, and systems programming.
 
+| **Area**                 | **Experience & Highlights**                                                                                                                                                                      |
+|--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Current Role**         | Linux Kernel Developer specializing in PCIe and kernel driver development; upstream contributor, low-level systems, & driver optimization.                                                        |
+| **Previous Experience**  | UG Researcher at Applied Data Science & AI Lab (IIITD) – adversarial machine learning, model security.<br>Industry Intern at Qualcomm – web tool (SKynreX) for bug resolution with ML.           |
+| **Full-Stack Work**      | Developed and hosted web apps (MERN, Django, Flask, Next.js), managed live production sites, integrated model zoo and EDA platforms.                                                             |
+| **Projects**             | Linux PCIe driver work, MSA-Toolbox (PyPI), Integrated Federate Healthcare Platform, FMS-IIITD (Django/Postgres), Aurora (Next.js/Spring Boot/MySQL), RISC-V assembler/simulator (Python, Assembly)|
+| **Teaching & Mentoring** | TA for Computer Organization (RISC-V) & Python Programming.                                                                                                                                    |
+| **Design & UX**          | Graphics and layouts for Enactus-IIITD competition.                                                                                                                                              |
+| **Skills**               | Linux Kernel & Driver Dev, Web Dev (MERN, Django, Flask), ML, DBMS, AI, Computer Vision, Deep Learning, Java, C++, Python, SQL, Git, Prolog                                                      |
 
 ---
 
