@@ -25,18 +25,17 @@ Hi! I'm **Sumit Kumar** (`sk1802`), currently a Linux Kernel Developer with a st
 | **Skills**               | Linux Kernel & Driver Dev, Web Dev (MERN, Django, Flask), ML, DBMS, AI, Computer Vision, Deep Learning, Java, C++, Python, SQL, Git, Prolog                                                      |
 
 ---
-
 ## 🚀 Notable Projects
 
-- **GRPC Marketplace**  
-  _A scalable marketplace platform built with GRPC for efficient service communication._
-
-- **GRPC Messaging Service**  
-  _A robust real-time messaging infrastructure using GRPC protocols._
-
-- **Dynamic QR Code Scanner**  
-  _An adaptable QR code scanning solution with real-time processing._
-
+| **Project**                                                                                                                | **Tech Stack**                | **Description**                                                                                                                   |
+|----------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| **Linux PCIe Driver Work**                                                                                                 | C, Linux Kernel               | Developed and optimized PCIe drivers, contributed patches upstream, focused on low-level systems and kernel development.           |
+| **MSA-Toolbox** ([PyPI Link](https://pypi.org/project/msa-toolbox/))                                                      | Python, PyPI, GUI             | Python package with GUI for performing adversarial attacks on deep learning models, including support for attacks on cloud models. |
+| **SKynreX (Qualcomm Internship)**                                                                                          | ML, Web (Python/JS)           | Web application for efficient bug resolution integrating ML models and parsers for intelligent bug solutions.                      |
+| **Integrated Federate Healthcare Platform (IFHP) ([Live Site](https://federatedhealthplatform.tavlab.iiitd.edu.in/home))** | MERN, Data Integration        | Live portal for TavLab IIITD projects, supports Model Zoo integration and exploratory data analysis on large COVID-19 datasets.    |
+| **FMS-IIITD** ([Live Site](https://fms.fh.iiitd.edu.in/))                                                                 | Django, PostgreSQL            | Facility Management System for IIITD, featuring user authentication and management workflows.                                      |
+| **Aurora (Advanced Unified Repository & Organizer)**                                                                       | Next.js, Spring Boot, MySQL   | Platform for creating and managing database modules, streamlining schema management and API generation for users.                  |
+| **RISC-V ISA Assembler and Simulator**                                                                                     | Python, Assembly              | Designed and implemented a custom assembler and simulator for the RISC-V instruction set architecture.                             |
 ---
 
 ## 📈 GitHub & Coding Stats
